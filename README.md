@@ -1,5 +1,6 @@
 # spark-data-seeder
-A simple script which can seed basic data into your Spark cluster's datastores. Includes a basic example of some sales data.
+
+A simple script which can seed basic data into your Spark cluster's datastores. Includes a basic example of some sales data. Used as a utility to generate data for use with [http://pantera.io](http://pantera.io).
 
 # Usage
 Run this python script in your Spark shell (e.g., Databricks).
